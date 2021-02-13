@@ -1,5 +1,5 @@
 # python-docker-example
-Experimental example for python application in docker.
+Help spilling any secret sauce.
 
 ## Status
 Experimental
