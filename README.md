@@ -2,6 +2,6 @@
 Help spilling any secret sauce.
 
 ## Status
-Experimental
+Experimental.
 
 **Note**: The default branch is `default`.
